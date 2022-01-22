@@ -1,5 +1,3 @@
-# DenseMatrixMultiplication
-
 # Problem Overview
 
 This problem solved to understand underlying technology of GPUs better and become familiar of CUDA interface. Take into account that used method may not be the optimum one.
